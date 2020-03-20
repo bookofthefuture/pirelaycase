@@ -20,10 +20,10 @@ Dupont pins - straight x6 (3x2)
 Dupont sockets x2:
 
 ## Assembly
-..*Download and print one of each STL file. I printed at standard quality, 0.2mm layer height and 30% infill with no supports on a Creality CR10S Pro and got great results.
-..* Use a box cutter/deburring tool to trim up the prints and make sure everything drops into the right places in the case.
-..* Use a soldering iron to melt the M3 threaded inserts into all the 4mm holes in the case. They should be just flush with the top of the case.
-..* Insert your IEC socket into the surround and solder on your mains cables
+..*Download and print one of each STL file. I printed at standard quality, 0.2mm layer height and 30% infill with no supports on a Creality CR10S Pro and got great results.  
+..* Use a box cutter/deburring tool to trim up the prints and make sure everything drops into the right places in the case.  
+..* Use a soldering iron to melt the M3 threaded inserts into all the 4mm holes in the case. They should be just flush with the top of the case.  
+..* Insert your IEC socket into the surround and solder on your mains cables  
 ..* Route your mains cables to the relay and the power socket. Make sure the connection points are well shielded and leave as much space as possible for the 5V wires (though one of the reasons I'm not totally happy with this design is that there will inevitably be some crossover)
 ..*Clip the RPi clip onto its base plate and install the micro SD card. Probably best to install your software at this point as access to the SD card will be limited later. Make sure you have SSH access as a minimum, as there's no access to the HDMI cable.
 ..* Solder up your 5V/GND rails using the veroboard and the dupont pins and connect them to the PSU on the 5V side
